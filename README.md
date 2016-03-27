@@ -2,8 +2,8 @@
 
 This repository has the ui.R and server.R files for the first part of the Developing Data Products Course Project. The peer assessed assignment has two parts. First, we need to create a Shiny application and deploy it on Rstudio's servers. Second, we should use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about the application.
 
-The app developed for the first part of the assignment is avalilable at: https://raencinas.shinyapps.io/Project
+The app developed for the first part of the assignment is avalilable at: https://sughoshrao.shinyapps.io/BestCar/
 
-The presentation is available at: http://raencinas.github.io/data_products_slidify/index
+The presentation is available at: https://sughoshrao.github.io/Dev%20Data%20Prods%20-%20Presentation/index.html
 
-Files for the presentation are avalilable on the GitHub: https://github.com/raencinas/dataproducts
+Files for the presentation are avalilable on the GitHub: https://github.com/SughoshRao/Coursera_Project-Dev_Data_Products
